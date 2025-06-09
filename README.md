@@ -4,6 +4,7 @@
 
 ### Installing and Running
 ```
+git clone https://github.com/pjv4yj/seeyuh-ui.git
 cd seeyuh-ui
 npm install
 npm run dev
