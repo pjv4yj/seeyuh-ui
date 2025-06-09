@@ -14,4 +14,4 @@ npm run dev
 
 You can now access the UI at ```http://127.0.0.1:3000```
 
-*NOTE:* The UI only works in tangent with the API service running locally as well
+*NOTE:* The UI only works in tangent with the API service running locally as well (https://github.com/pjv4yj/seeyuh-api)
